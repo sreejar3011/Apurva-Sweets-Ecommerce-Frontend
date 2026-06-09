@@ -1,3 +1,16 @@
-# Welcome to your Lovable project
+# 🍬 Apurva Sweets Frontend
 
-TODO: Document your project here
+Modern e-commerce frontend built with React and TypeScript, delivering a responsive and intuitive shopping experience.
+
+## Features
+- Responsive UI
+- Product Catalog
+- Mobile Friendly
+
+## Tech Stack
+- React
+- TypeScript
+- CSS
+
+## Author
+Sreeja R
